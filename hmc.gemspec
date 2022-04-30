@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = "CLI utility to help decide between multiple choices"
   spec.description = "Making decisions is difficult, and I'm very bad at it. This gem is a tool to help decide between any number of options. Returns one or more options out of a provided list of choices. Supports picking entirely at random, or weighting decisions if you're kinda leaning towards one or more options but you're not sure."
-  spec.homepage = ""
+  spec.homepage = "https://github.com/ngencokamin/hmc"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
