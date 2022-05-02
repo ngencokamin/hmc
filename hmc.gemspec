@@ -24,4 +24,6 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_dependency "tty-prompt"
+  spec.add_development_dependency "rake", "~> 13.0"
+  spec.add_development_dependency "rubocop", "~> 1.21"
 end
